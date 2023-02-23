@@ -1,0 +1,1 @@
+<p class="text-center">Having trouble in configuration? <a href="http://ecommerce.codup.io/support/home" target="_blank" >Get support</a></p>     
